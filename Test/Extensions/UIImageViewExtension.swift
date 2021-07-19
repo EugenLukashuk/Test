@@ -1,5 +1,5 @@
 //
-//  UIImageView.swift
+//  UIImageViewExtension.swift
 //  Test
 //
 //  Created by Eugen on 19.07.2021.
